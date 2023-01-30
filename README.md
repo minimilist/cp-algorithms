@@ -2,7 +2,7 @@
 This repository will contain all the important CP algorithms I use in my codeforces contests.
 
 ## Contents:
-  1. Data Structures
+  ### 1. Data Structures
     - Min Stack/ Min Queue
       - Stack Modification
       - Queue Modification
